@@ -3,3 +3,5 @@ This is test repository to simulate relations between supermodule and submodule 
 Trying to simulate work with submodules through IDEA
 
 Ok, this will not be visible inside super-module
+
+how?
